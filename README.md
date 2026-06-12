@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # layout
 
 A new Flutter project.
@@ -15,3 +16,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# flutter_layout_homework
+>>>>>>> 0d97500f84bde991e8341489239bee6c8f0fff58
